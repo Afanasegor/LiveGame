@@ -1,0 +1,10 @@
+D:\Пользователь\Desktop\С# обучение\Live\Live\bin\Debug\Live.exe.config
+D:\Пользователь\Desktop\С# обучение\Live\Live\bin\Debug\Live.exe
+D:\Пользователь\Desktop\С# обучение\Live\Live\bin\Debug\Live.pdb
+D:\Пользователь\Desktop\С# обучение\Live\Live\obj\Debug\Live.csprojAssemblyReference.cache
+D:\Пользователь\Desktop\С# обучение\Live\Live\obj\Debug\Live.Form1.resources
+D:\Пользователь\Desktop\С# обучение\Live\Live\obj\Debug\Live.Properties.Resources.resources
+D:\Пользователь\Desktop\С# обучение\Live\Live\obj\Debug\Live.csproj.GenerateResource.cache
+D:\Пользователь\Desktop\С# обучение\Live\Live\obj\Debug\Live.csproj.CoreCompileInputs.cache
+D:\Пользователь\Desktop\С# обучение\Live\Live\obj\Debug\Live.exe
+D:\Пользователь\Desktop\С# обучение\Live\Live\obj\Debug\Live.pdb

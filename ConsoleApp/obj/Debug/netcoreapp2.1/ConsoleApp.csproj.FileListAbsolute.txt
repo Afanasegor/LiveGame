@@ -1,0 +1,16 @@
+D:\Пользователь\Desktop\С# обучение\Live\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.deps.json
+D:\Пользователь\Desktop\С# обучение\Live\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.runtimeconfig.json
+D:\Пользователь\Desktop\С# обучение\Live\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.runtimeconfig.dev.json
+D:\Пользователь\Desktop\С# обучение\Live\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.dll
+D:\Пользователь\Desktop\С# обучение\Live\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.pdb
+D:\Пользователь\Desktop\С# обучение\Live\ConsoleApp\bin\Debug\netcoreapp2.1\Live.exe
+D:\Пользователь\Desktop\С# обучение\Live\ConsoleApp\bin\Debug\netcoreapp2.1\Live.pdb
+D:\Пользователь\Desktop\С# обучение\Live\ConsoleApp\bin\Debug\netcoreapp2.1\Live.exe.config
+D:\Пользователь\Desktop\С# обучение\Live\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csprojAssemblyReference.cache
+D:\Пользователь\Desktop\С# обучение\Live\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Пользователь\Desktop\С# обучение\Live\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.AssemblyInfoInputs.cache
+D:\Пользователь\Desktop\С# обучение\Live\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.AssemblyInfo.cs
+D:\Пользователь\Desktop\С# обучение\Live\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csproj.CopyComplete
+D:\Пользователь\Desktop\С# обучение\Live\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.dll
+D:\Пользователь\Desktop\С# обучение\Live\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.pdb
+D:\Пользователь\Desktop\С# обучение\Live\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.genruntimeconfig.cache
